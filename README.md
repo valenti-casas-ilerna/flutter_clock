@@ -1,6 +1,6 @@
-# hello_world
+# Sample Clock Project
 
-A new Flutter project.
+A simple clock project just to learn some flutter.
 
 ## Getting Started
 
